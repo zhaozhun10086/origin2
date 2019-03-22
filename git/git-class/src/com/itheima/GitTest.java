@@ -9,4 +9,11 @@ public class GitTest {
 
 
     }
+    public void test(){
+        int a=10;
+        for (int i = 0; i < a; i++) {
+        System.out.println(i);
+        }
+
+    }
 }
